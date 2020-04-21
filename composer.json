@@ -1,5 +1,5 @@
 {
-	"name": "custom-wpcs-ruleset",
+	"name": "jey/custom-wpcs-ruleset",
 	"type": "coding-ruleset",
 	"description": "Custom coding standards",
 	"license": "",
