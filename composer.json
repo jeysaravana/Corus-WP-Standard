@@ -1,5 +1,5 @@
 {
-	"name": "jey/corus-wp-standard",
+	"name": "corus/corus-wp-standard",
 	"type": "coding-ruleset",
 	"description": "Custom coding standards",
 	"license": "",
@@ -8,6 +8,7 @@
 	"keywords": ["wordpress", "coding-standard"],
 	"require": {
 		"composer/installers": "~1.0",
+		"squizlabs/php_codesniffer": "3.*"
 		"wp-coding-standards/wpcs": "2.2.*"
 	}
 }
